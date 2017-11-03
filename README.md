@@ -5,7 +5,7 @@
 
 The main goal of this project was to study how works the Fully Convolutional Network (FCN) and main concepts like Decoder/Encoder, Transposed Convolution, Skip Connections and etc.
 
-Here my dev.setup: Python 3.5.2, Tensorflow 1.4.0 and AWS g3.4xlarge with community AMI udacity-advanced-deeplearning.
+Here my dev.setup: Python 3.6.0, Tensorflow 1.4.0 and AWS g3.4xlarge with community AMI udacity-advanced-deeplearning.
  
 I experimented with several epochs values, batch sizes, learning rates and dropouts hyper parameters during training, and we finally settled on the following hyper parameters since the resulting model seems to generalize well and do not over or under fit the test data in the dataset:
 

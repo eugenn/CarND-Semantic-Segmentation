@@ -26,6 +26,10 @@ The following give examples of the output of this Fully Convolutional Network fo
 
 ![alt text](./examples/umm_000014.png)
 
+![alt text](./examples/umm_000046.png)
+
+![alt text](./examples/uu_000092.png)
+
 The following resources were very helpful:
 * SDC slack channel!
 * [DeepLab: Semantic Image Segmentation (How it works)](https://www.youtube.com/watch?v=b6jhopSMit8) 
